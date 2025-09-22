@@ -109,8 +109,9 @@ namespace StudentGradeSystem
 
 
 ## Screenshot: 
+<img width="1783" height="902" alt="student grades" src="https://github.com/user-attachments/assets/65d6c741-0ad9-4cf7-97a5-8dec9848f961" />
 
-"C:\Users\taqi8\OneDrive - Hämeen ammattikorkeakoulu\Documents\GitHub\Object-Oriented-Programming\student grades.png"
+
 
 ## 📝 Problem 2: Banking System
 
@@ -236,5 +237,5 @@ namespace BankingSystem
 
 
 ## Screenshot:
+<img width="1918" height="999" alt="banking" src="https://github.com/user-attachments/assets/6b51b492-996e-4bbd-a1ce-4a2252075e25" />
 
-"C:\Users\taqi8\OneDrive - Hämeen ammattikorkeakoulu\Documents\GitHub\Object-Oriented-Programming\banking.png"
